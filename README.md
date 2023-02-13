@@ -6,7 +6,7 @@
 ### Arquitetura: MVC
 ### Linguagem: JAVA
 ### Banco de Dados: MYSQL
-###
+### Padrão de Projeto: Design Patterns
 
 ### Versão 1.0
 
