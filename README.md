@@ -66,9 +66,9 @@ Feito com 💙 por Felipe Santana 👋🏽 Entre em contato!
 
 Se possível:
 
-⭐️  JAVA projeto
-⭐️  MYSQL projeto
-⭐️  Design Pattern projeto
+⭐️  JAVA projeto<br>
+⭐️  MYSQL projeto<br>
+⭐️  Design Pattern projeto<br>
 
 🐛 Encontrar e relatar issues
 
